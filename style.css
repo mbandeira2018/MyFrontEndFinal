@@ -7,3 +7,9 @@
     font-family: 'Inter', system-ui;
     color: #243e63;
 }
+
+.row {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
